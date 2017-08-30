@@ -1,0 +1,26 @@
+#+TITLE: Sandwiches
+#+AUTHOR: Josh Ting
+
+* Is X a Sandwich?
+
+| Thing              | Josh |
+|--------------------+-----|
+| BLT                | y   |
+| Chip butty         | y   |
+| Ice cream sandwich | y   |
+| Sub                | y   |
+| Hot dog            | y   |
+| Ice cream taco     | n   |
+| Chicken wrap       | ?   |
+| Burrito            | ?   |
+| Pop-tart           | n   |
+
+* Notes
+For reference:
+[[file:https://lh5.googleusercontent.com/4oV1_tgDuLm5UjN8PxLnKt0HDWTT2lh0Ryvfdnv3ezz9wm2fFmu31jDeF_G3VRR1nrUHVFECFq8S5vMAjflY1QdZqleb4kCdgUCXUFY77B8PmByldeJDS7sSFT912XAxowaMCFrR]]
+
+In addition, [reddit.com/r/legaladvice](https://www.reddit.com/r/legaladvice/comments/6qqnun/what_is_the_legal_definition_of_a_sandwich/) established the following definition:
+1. A sandwich is a single piece of bread or two pieces of bread(of roughly equal size) that and surrounds a filling on both the top and bottom as it is eaten, where the bottom of the sandwich is gripped by thumb(s) and the top is gripped by finger(s).
+2. The bread must have been baked prior to being combined with the filling(i.e., no Calzones)
+3. Where the sandwich is one (rather than two) pieces of bread, the filling must be typically found in two-bread sandwiches in the same form. (I.e., no burritos)
+4. Where substituted as a low-carb option, lettuce can be substituted for bread provided nothing else is changed and filling is the same as is typically found in two-bread sandwiches.
