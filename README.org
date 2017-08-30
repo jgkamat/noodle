@@ -1,0 +1,16 @@
+* Noodle
+
+This is the repository for answering the questions of our lifetime
+
+To participate, add a PR adding a column with your information!
+
+| Mark | What it means       |
+|------+---------------------|
+| y    | Yes, this is a X    |
+| n    | No, this is not a X |
+| ?    | Maybe               |
+|      | Unknown             |
+
+* Questions
+1. [[file:noodle.org::*Is%20X%20a%20Noodle?][Is X a Noodle?]]
+2. Is X a Soup?

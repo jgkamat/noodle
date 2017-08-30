@@ -1,0 +1,32 @@
+
+#+TITLE: Noodles
+#+AUTHOR: Jay Kamat
+
+* Is X a Noodle?
+
+| Thing             | Jay |
+|-------------------+-----|
+| Noodle            | y   |
+| Angel Hair Pasta  | y   |
+| Linguine          | y   |
+| Macaroni          | y   |
+| Penne             | y   |
+| Tortellini        | y   |
+| Ravioli           | y   |
+| Pool Noodle       | y   |
+| cooked ramen      | y   |
+| uncooked ramen    | y   |
+| Electrical Cable  | y   |
+| Rocks             | n   |
+| Tech Trolley      | y   |
+| Socks             | y   |
+| Bed               | n   |
+| Earthworms        | y   |
+| Noodliii          | y   |
+| antimatter noodle | ?   |
+
+* Notes
+** Jay
+
+If I'm in a pool, and I tell you "hand me the noodles", you're going to hand me
+pool noodles.
