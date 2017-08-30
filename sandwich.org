@@ -3,23 +3,25 @@
 
 * Is X a Sandwich?
 
-| Thing                  | Jay | Josh |
-|------------------------+-----+------|
-| BLT                    | y   | y    |
-| Chip butty             | y   | y    |
-| Ice cream sandwich     | y   | y    |
-| Sub                    | y   | y    |
-| Hot dog                | y   | y    |
-| Ice cream taco         | y   | n    |
-| Chicken wrap           | y   | ?    |
-| Burrito                | n   | ?    |
-| Pop-tart               | n   | n    |
-| quesadilla             | y   |      |
-| rocks                  | n   |      |
-| water bottle (open)    | y   |      |
-| water bottle (closed)  | n   |      |
-| BLT ~s/bread/lettuce/~ | n   |      |
-| toast with avocado     | n   |      |
+| Thing                        | Jay | Josh |
+|------------------------------+-----+------|
+| BLT                          | y   | y    |
+| Chip butty                   | y   | y    |
+| Ice cream sandwich           | y   | y    |
+| Sub                          | y   | y    |
+| Hot dog                      | y   | y    |
+| Ice cream taco               | y   | n    |
+| Chicken wrap                 | y   | ?    |
+| Burrito                      | n   | ?    |
+| Pop-tart                     | n   | n    |
+| quesadilla                   | y   |      |
+| rocks                        | n   |      |
+| water bottle (open, full)    | y   |      |
+| water bottle (open, empty)   | n   |      |
+| water bottle (closed, full)  | n   |      |
+| water bottle (closed, empty) | n   |      |
+| BLT ~s/bread/lettuce/~       | n   |      |
+| toast with avocado           | n   |      |
 
 * Notes
 For reference:
