@@ -4,6 +4,8 @@ This is the repository for answering the questions of our lifetime
 
 To participate, add a PR adding a column with your information!
 
+If you would like to add a new question or have a comment, please file an issue.
+
 | Mark | What it means       |
 |------+---------------------|
 | y    | Yes, this is a X    |
