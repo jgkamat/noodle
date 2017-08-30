@@ -1,23 +1,27 @@
 #+TITLE: Sandwiches
-#+AUTHOR: Josh Ting
+#+AUTHOR: Josh Ting, Jay Kamat
 
 * Is X a Sandwich?
 
-| Thing              | Josh |
-|--------------------+-----|
-| BLT                | y   |
-| Chip butty         | y   |
-| Ice cream sandwich | y   |
-| Sub                | y   |
-| Hot dog            | y   |
-| Ice cream taco     | n   |
-| Chicken wrap       | ?   |
-| Burrito            | ?   |
-| Pop-tart           | n   |
+| Thing                 | Jay | Josh |
+|-----------------------+-----+------|
+| BLT                   | y   | y    |
+| Chip butty            | y   | y    |
+| Ice cream sandwich    | y   | y    |
+| Sub                   | y   | y    |
+| Hot dog               | y   | y    |
+| Ice cream taco        | y   | n    |
+| Chicken wrap          | y   | ?    |
+| Burrito               | n   | ?    |
+| Pop-tart              | n   | n    |
+| quesadilla            | y   |      |
+| rocks                 | n   |      |
+| water bottle (open)   | y   |      |
+| water bottle (closed) | n   |      |
 
 * Notes
 For reference:
-[[file:https://lh5.googleusercontent.com/4oV1_tgDuLm5UjN8PxLnKt0HDWTT2lh0Ryvfdnv3ezz9wm2fFmu31jDeF_G3VRR1nrUHVFECFq8S5vMAjflY1QdZqleb4kCdgUCXUFY77B8PmByldeJDS7sSFT912XAxowaMCFrR]]
+[[https://lh5.googleusercontent.com/4oV1_tgDuLm5UjN8PxLnKt0HDWTT2lh0Ryvfdnv3ezz9wm2fFmu31jDeF_G3VRR1nrUHVFECFq8S5vMAjflY1QdZqleb4kCdgUCXUFY77B8PmByldeJDS7sSFT912XAxowaMCFrR][Sandwich Alignment Chart]]
 
 In addition, [[https://www.reddit.com/r/legaladvice/comments/6qqnun/what_is_the_legal_definition_of_a_sandwich/][reddit.com/r/legaladvice]] established the following definition:
 1. A sandwich is a single piece of bread or two pieces of bread(of roughly equal size) that and surrounds a filling on both the top and bottom as it is eaten, where the bottom of the sandwich is gripped by thumb(s) and the top is gripped by finger(s).
