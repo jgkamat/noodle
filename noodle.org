@@ -1,29 +1,29 @@
 
 #+TITLE: Noodles
-#+AUTHOR: Jay Kamat
+#+AUTHOR: Jay Kamat, Josh Ting
 
 * Is X a Noodle?
 
-| Thing             | Jay |
+| Thing             | Jay | Josh |
 |-------------------+-----|
-| Noodle            | y   |
-| Angel Hair Pasta  | y   |
-| Linguine          | y   |
-| Macaroni          | y   |
-| Penne             | y   |
-| Tortellini        | y   |
-| Ravioli           | y   |
-| Pool Noodle       | y   |
-| cooked ramen      | y   |
-| uncooked ramen    | y   |
-| Electrical Cable  | y   |
-| Rocks             | n   |
-| Tech Trolley      | y   |
-| Socks             | y   |
-| Bed               | n   |
-| Earthworms        | y   |
-| Noodliii          | y   |
-| antimatter noodle | ?   |
+| Noodle            | y   | y   |
+| Angel Hair Pasta  | y   | y   |
+| Linguine          | y   | y   |
+| Macaroni          | y   | y   |
+| Penne             | y   | y   |
+| Tortellini        | y   | y   |
+| Ravioli           | y   | y   |
+| Pool Noodle       | y   | N   |
+| cooked ramen      | y   | y   |
+| uncooked ramen    | y   | y   |
+| Electrical Cable  | y   | n   |
+| Rocks             | n   | n   |
+| Tech Trolley      | y   | n   |
+| Socks             | y   | n   |
+| Bed               | n   | n   |
+| Earthworms        | y   | n   |
+| Noodliii          | y   | n   |
+| antimatter noodle | ?   | n   |
 
 * Notes
 ** Jay
