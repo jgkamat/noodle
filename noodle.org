@@ -3,30 +3,35 @@
 
 * Is X a Noodle?
 
-| Thing             | Jay | Josh |
-|-------------------+-----+------|
-| Noodle            | y   | y    |
-| Angel Hair Pasta  | y   | y    |
-| Linguine          | y   | y    |
-| Macaroni          | y   | y    |
-| Penne             | y   | y    |
-| Tortellini        | y   | y    |
-| Ravioli           | y   | y    |
-| Pool Noodle       | y   | N    |
-| cooked ramen      | y   | y    |
-| uncooked ramen    | y   | y    |
-| Electrical Cable  | y   | n    |
-| Rocks             | n   | n    |
-| Tech Trolley      | y   | n    |
-| Socks             | y   | n    |
-| Bed               | n   | n    |
-| Earthworms        | y   | n    |
-| Noodliii          | y   | n    |
-| antimatter noodle | ?   | n    |
-| burrito           | y   |      |
+| Thing             | Jay | Josh | Will |
+|-------------------+-----+------+------|
+| Noodle            | y   | y    |      |
+| Angel Hair Pasta  | y   | y    |      |
+| Linguine          | y   | y    |      |
+| Macaroni          | y   | y    |      |
+| Penne             | y   | y    |      |
+| Tortellini        | y   | y    |      |
+| Ravioli           | n   | y    | n    |
+| Pool Noodle       | y   | N    |      |
+| cooked ramen      | y   | y    |      |
+| uncooked ramen    | y   | y    |      |
+| Electrical Cable  | y   | n    |      |
+| Rocks             | n   | n    |      |
+| Tech Trolley      | y   | n    |      |
+| Socks             | y   | n    |      |
+| Bed               | n   | n    |      |
+| Earthworms        | y   | n    |      |
+| Noodliii          | y   | n    |      |
+| antimatter noodle | ?   | n    |      |
+| burrito           | n   |      |      |
 
 * Notes
 ** Jay
 
 If I'm in a pool, and I tell you "hand me the noodles", you're going to hand me
 pool noodles.
+
+** Ravioli
+
+Some people think that ravioli is not a noodle, because it the shape of a pasta
+determines if it is a noodle.
