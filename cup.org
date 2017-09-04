@@ -1,0 +1,21 @@
+#+TITLE: Cups
+#+AUTHOR: Jay Kamat
+
+* Is X a Cup?
+
+| Thing                 | Jay |
+|-----------------------+-----|
+| Red Solo Cup          | y   |
+| Mug                   | y   |
+| Water Bottle (open)   | y   |
+| Water Bottle (closed) | n   |
+| Burrito               | n   |
+| Cup Crushed into Ball | y   |
+| Canteen (open)        | y   |
+| Canteen (closed)      | n   |
+| Pickup Truck          | y   |
+| Sponge                | n   |
+| Napkin                | n   |
+| Trash Can             | y   |
+| Tech Trolley (open)   | y   |
+| Tech Trolley (closed) | n   |
